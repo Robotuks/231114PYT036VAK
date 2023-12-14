@@ -1,0 +1,14 @@
+address:
+  city: Vilnius
+  number: 1
+  street: Gedimino pr.
+age: 30
+car: null
+hobbies:
+- Python
+- Linux
+- Raspberry Pi
+- Mac
+is_married: true
+name: Eugenijus
+surname: Kurmis
